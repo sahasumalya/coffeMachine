@@ -1,0 +1,17 @@
+{
+  "name": "coffemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1" : "node index.js './tests/inputFile.json'",
+    "test2" : "node index.js './tests/inputFile1.json'",
+    "test3" : "node index.js './tests/inputFile2.json'"
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deepcopy": "^2.1.0"
+  }
+}

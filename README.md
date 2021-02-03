@@ -1,11 +1,11 @@
-**refillInventory of Machine class can be used to refill ingredients
-**getBeverage of Machine class has been used to generate the beverage combinations through the outlets.
+**refillInventory of Machine class can be used to refill ingredients\n
+**getBeverage of Machine class has been used to generate the beverage combinations through the outlets.\n
 
 
 
-The 3 testcase jsons has been put in the tests folder according to the input json format
-of https://www.npoint.io/docs/e8cd5a9bbd1331de326a.
-Only the outlets number has been changed in the testcases:- 1,2,3;
+The 3 testcase jsons has been put in the tests folder according to the input json format\n
+of https://www.npoint.io/docs/e8cd5a9bbd1331de326a.\n
+Only the outlets number has been changed in the testcases:- 1,2,3;\n
 
 1.npm install
 2.npm run test1   /*For 3 outlets*/
